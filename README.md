@@ -1,6 +1,6 @@
 # Site Responsivo Delivery 🚚
 
-# Visite o site: https://eudesdgomes.github.io/website-responsivo-delivery/
+- Visite o site: https://eudesdgomes.github.io/website-responsivo-delivery/
 
 ### Responsive Website Delivery
 
